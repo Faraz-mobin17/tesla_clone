@@ -2,8 +2,8 @@
 
 ## Desktop
 
-![]('./src/screenshot/desktop.png')
+![](./src/screenshot/desktop.png)
 
 ## Mobile
 
-![]('./src/screenshot/mobile.png')
+![](./src/screenshot/mobile.png)
