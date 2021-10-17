@@ -10,6 +10,7 @@ function Home() {
         backgroundImg="model-s.jpg"
         leftBtnText="Custom Order"
         rightBtnText="Existing Inventory"
+        id="1"
       />
       <Section
         title="Model Y"
@@ -17,6 +18,7 @@ function Home() {
         backgroundImg="model-y.jpg"
         leftBtnText="Custom Order"
         rightBtnText="Existing Inventory"
+        id="2"
       />
       <Section
         title="Model 3"
@@ -24,6 +26,7 @@ function Home() {
         backgroundImg="model-3.jpg"
         leftBtnText="Custom Order"
         rightBtnText="Existing Inventory"
+        id="3"
       />
       <Section
         title="Model X"
@@ -31,6 +34,7 @@ function Home() {
         backgroundImg="model-x.jpg"
         leftBtnText="Custom Order"
         rightBtnText="Existing Inventory"
+        id="4"
       />
       <Section
         title="Lowest Cost Solar Panles in America"

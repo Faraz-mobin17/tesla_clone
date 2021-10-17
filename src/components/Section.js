@@ -12,8 +12,8 @@ function Section({
     <Wrap bgImage={backgroundImg}>
       <Fade bottom>
         <ItemText>
-          <h1>{title}</h1>
-          <p>{description}</p>
+          <h1 style={{ fontSize: "40px", fontWeight: "500" }}>{title}</h1>
+          <p style={{ fontWeight: "300" }}>{description}</p>
         </ItemText>
       </Fade>
       <Buttons>
@@ -84,6 +84,7 @@ const DownArrow = styled.img`
   width: 100%;
   animation: animateDown infinite 1.5s;
   overflow: hidden;
+  cursor: pointer;
 `;
 
 const Buttons = styled.div``;
